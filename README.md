@@ -1,4 +1,4 @@
-# eda-cpp_ptr
+# eda-cpp_pointers
 > Ejemplo basico del uso de apuntadoras en C++
 
 ## License
